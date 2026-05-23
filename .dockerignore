@@ -1,5 +1,6 @@
 .git
 .idea
 .dockerignore
+.github
 Dockerfile
 README.md
